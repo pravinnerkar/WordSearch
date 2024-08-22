@@ -1,4 +1,4 @@
-# WordSearch
+# Word Finder
 WordSearch - Optimized Approach Using Trie and HashSet
 
 Trie Data Structure:
