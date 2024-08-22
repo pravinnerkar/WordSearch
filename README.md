@@ -1,5 +1,5 @@
 # Word Finder
-WordSearch - Optimized Approach Using Trie and HashSet
+Optimized Approach Using Trie and HashSet
 
 Trie Data Structure:
 
